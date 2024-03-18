@@ -1,5 +1,5 @@
 # HEALTHhOUSE: a dISEASE Discovery tool:
-![Screenshot 2024-03-15 005201](https://github.com/EmanPresley/Project4-Group3/assets/147120775/a7aaa086-f9c7-4177-b1f8-112745ce5564)
+![Screenshot 2024-03-15 005201](https://github.com/EmanPresley/Project4-Group3/assets/147120775/e70f41a1-622c-48e3-8698-84b970a29a83)
 
 # Project Contributors :woman_technologist: :thought_balloon: :man_technologist:
   - Shanara Hawkins @ShanaraTech
