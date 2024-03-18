@@ -1,6 +1,6 @@
 # HEALTHhOUSE: a dISEASE Discovery tool:
 ![Screenshot 2024-03-15 005201](https://github.com/EmanPresley/Project4-Group3/assets/147120775/2f563563-c207-4f34-a92b-49212191e0df) 
-Image Courtesy of https://www.imdb.com/title/tt0412142/mediaviewer/rm2468813056/[^1].
+Image Courtesy of [IMBD](https://www.imdb.com/title/tt0412142/mediaviewer/rm2468813056/)[^1].
 
 # Project Contributors :woman_technologist: :thought_balloon: :man_technologist:
   - Shanara Hawkins @ShanaraTech
@@ -13,7 +13,7 @@ The TV show “House” served as inspiration for our group’s data science pro
 
 
 # Analysis :memo:
-Detailed analysis to come. In the meantime, take a look at our project proposal: [HEALTHhOUSE: A dISEASE Discovery Tool]([https://docs.google.com/document/d/1dyPGv2qgVRCRR7wCuuKsLJ9JuXUMCKgpu09dCJZxbic/edit](https://docs.google.com/document/d/1ZJC__YZ6HcG2iI8v9XrHZQXqISoCN6rZf_40J-XnegQ/edit)) PDF to learn more about the Datasets, our ETL, Web App and Dashboard creation methods, Limitation, Bias, Future Work, and Works Cited. Stay Healthy!
+Detailed analysis to come. In the meantime, take a look at our project proposal: [HEALTHhOUSE: A dISEASE Discovery Tool](https://docs.google.com/document/d/1dyPGv2qgVRCRR7wCuuKsLJ9JuXUMCKgpu09dCJZxbic/edit) PDF to learn more about the Datasets, our ETL, Web App and Dashboard creation methods, Limitation, Bias, Future Work, and Works Cited. Stay Healthy!
 
 # Programming, Languages, & Analytics :woman_technologist: :desktop_computer:
   - Python/Jupyter Notebook
