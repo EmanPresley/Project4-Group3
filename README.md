@@ -1,6 +1,6 @@
 # HEALTHhOUSE: a dISEASE Discovery tool:
 ![Screenshot 2024-03-15 005201](https://github.com/EmanPresley/Project4-Group3/assets/147120775/2f563563-c207-4f34-a92b-49212191e0df) 
-Image Courtesy of [IMBD](https://www.imdb.com/title/tt0412142/mediaviewer/rm2468813056/)[^1].
+Image Courtesy of [IMBD](https://www.imdb.com/title/tt0412142/mediaviewer/rm2468813056/).
 
 # Project Contributors :woman_technologist: :thought_balloon: :man_technologist:
   - Shanara Hawkins @ShanaraTech
@@ -10,7 +10,6 @@ Image Courtesy of [IMBD](https://www.imdb.com/title/tt0412142/mediaviewer/rm2468
 
 # Project 4 Inspiration :man_scientist: :stethoscope: :pill: 
 The TV show “House” served as inspiration for our group’s data science project, HEALTHhOUSE. We plan to combine our knowledge of Flask web application development, machine learning, algorithms and data visualizations to create a model that predicts diseases based on a pattern of symptoms. The plan for our predictive model is to assist users in identifying potential illnesses more efficiently, mirroring Dr. House and his medical team’s diagnostic prowess. 
-
 
 # Analysis :memo:
 Detailed analysis to come. In the meantime, take a look at our project proposal: [HEALTHhOUSE: A dISEASE Discovery Tool](https://docs.google.com/document/d/1dyPGv2qgVRCRR7wCuuKsLJ9JuXUMCKgpu09dCJZxbic/edit) PDF to learn more about the Datasets, our ETL, Web App and Dashboard creation methods, Limitation, Bias, Future Work, and Works Cited. Stay Healthy!
@@ -42,6 +41,3 @@ We would like to extend a special shout out to our Professor and our outstanding
   1. Southern Methodist University Data Science CAPE Instructional Staff
      - Professor: Alexander Booth @ABoothInTheWild
      - Assistant Teaching Professor: Sherhone Grant @SherhoneGrantDS
-
-  
-/
