@@ -11,7 +11,7 @@ Image Courtesy of [IMBD](https://www.imdb.com/title/tt0412142/mediaviewer/rm2468
 # Project 4 Inspiration :man_scientist: :stethoscope: :pill: 
 The TV show “House” served as inspiration for our group’s data science project, HEALTHhOUSE. We plan to combine our knowledge of Flask web application development, machine learning, algorithms and data visualizations to create a model that predicts diseases based on a pattern of symptoms. The plan for our predictive model is to assist users in identifying potential illnesses more efficiently, mirroring Dr. House and his medical team’s diagnostic prowess. 
 
-# Analysis :memo:
+# Analysis :memo: :green_apple:
 Detailed analysis to come. In the meantime, take a look at our project proposal: [HEALTHhOUSE: A dISEASE Discovery Tool](https://docs.google.com/document/d/1dyPGv2qgVRCRR7wCuuKsLJ9JuXUMCKgpu09dCJZxbic/edit) PDF to learn more about the Datasets, our ETL, Web App and Dashboard creation methods, Limitation, Bias, Future Work, and Works Cited. Stay Healthy!
 
 # Programming, Languages, & Analytics :woman_technologist: :desktop_computer:
