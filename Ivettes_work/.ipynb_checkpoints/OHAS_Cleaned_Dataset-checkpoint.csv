@@ -1,0 +1,219 @@
+Disease,Disease_CUI,Symptoms,Symptom_CUI,Weight,Height,Intensity,Severity,Age,Gender,BMI_Level,Region,Season
+hypothyroidism,C0024790,shortness of breath,C0019054,398,162,low,low,23,female,37.62,southeast,Summer
+hypothyroidism,C0024790,prostatism,C0008031,398,187,low,high,24,female,30.8,southwest,Summer
+hypothyroidism,C0024790,drowsiness,C0027497,398,187,high,medium,28,male,38.28,southeast,Summer
+hypothyroidism,C0024790,sleepy,C0011168,398,187,low,high,30,male,19.95,northeast,Summer
+hypothyroidism,C0024790,hypo162tremia,C0242350,398,190,low,high,24,male,19.3,southwest,Winter
+hypothyroidism,C0024790,fall,C0004604,398,194,high,low,21,female,31.6,southwest,Summer
+hypothyroidism,C0024790,unsteady gait,C0018681,398,194,high,medium,21,male,25.46,northeast,Summer
+hypothyroidism,C0024790,polyuria,C0231528,398,194,high,high,21,female,30.115,northeast,Summer
+hypothyroidism,C0024790,hypotension,C0002871,398,194,medium,low,25,female,29.92,southeast,Summer
+hypothyroidism,C0024790,difficulty,C0030232,398,194,high,high,25,female,27.5,southwest,Summer
+hypothyroidism,C0024790,syncope,C0013404,398,182,low,medium,23,male,28.025,northwest,Summer
+hypothyroidism,C0024790,nightmare,C0039239,398,162,high,high,20,female,28.4,southwest,Summer
+hypothyroidism,C0024790,speech slurred,C0022346,398,162,medium,low,33,male,30.875,northwest,Summer
+hypothyroidism,C0024790,weight gain,C0038002,398,162,high,high,33,male,27.94,southeast,Summer
+hypothyroidism,C0024790,asthenia,C0947622,398,162,medium,medium,33,male,35.09,southeast,Summer
+hypothyroidism,C0024790,fatigue,C0741494,398,162,high,high,23,male,33.63,northwest,Winter
+hypothyroidism,C0024790,tired,C0008350,398,162,low,high,27,female,29.7,southwest,Winter
+hypothyroidism,C0024790,agitation,C0002871,398,162,high,low,27,male,30.8,southwest,Winter
+hypothyroidism,C0024790,mental status changes,C3714552,398,162,high,medium,31,female,35.72,northwest,Winter
+hypothyroidism,C0024790,motor retardation,C0518656,398,162,low,high,31,male,32.205,northeast,Winter
+hypothyroidism,C0024790,vomiting,C0030232,398,162,low,low,31,male,28.595,northeast,Winter
+hypothyroidism,C0024790,numbness,C0023530,398,162,high,high,28,male,49.06,southeast,Summer
+hypothyroidism,C0024790,mass of body structure,C0040034,398,162,low,medium,25,female,27.94,southeast,Summer
+asthma,C0032326,wheezing,C0239324,835,182,medium,high,22,male,31.57,southeast,Summer
+asthma,C0032326,cough,C0850149,835,182,high,low,26,female,26.2,southwest,Summer
+asthma,C0032326,shortness of breath,C0010201,835,188,low,high,29,male,25.74,southeast,Summer
+asthma,C0032326,chest tightness,C0013404,835,168,high,medium,25,female,26.6,northwest,Summer
+asthma,C0032326,non-productive cough,C0010200,835,162,medium,high,21,male,34.43,southeast,Summer
+asthma,C0032326,pleuritic pain,C0239324,835,163,high,high,21,male,30.59,northwest,Summer
+asthma,C0032326,productive cough,C0039239,835,163,high,low,21,female,32.8,southwest,Summer
+asthma,C0032326,symptom aggravating factors,C0232118,835,190,medium,medium,27,female,28.6,southeast,Summer
+asthma,C0032326,distress respiratory,C0043144,835,180,high,high,21,female,18.05,northwest,Summer
+osteoarthritis,C0221406,pain,C0019158,405,165,low,high,23,female,24.31,southeast,Summer
+osteoarthritis,C0221406,food intolerance,C0003864,405,165,medium,low,27,female,23.6,southwest,Summer
+osteoarthritis,C0221406,numbness of hand,C0478120,405,165,high,high,35,male,21.12,southeast,Summer
+osteoarthritis,C0221406,general discomfort,C0011991,405,162,low,medium,34,male,30.03,southeast,Summer
+osteoarthritis,C0221406,drowsiness,C0038238,405,188,high,high,27,male,17.48,northwest,Summer
+osteoarthritis,C0221406,asthenia,C0016204,405,176,medium,high,24,female,20.235,northeast,Summer
+osteoarthritis,C0221406,nonsmoker,C0009806,405,175,high,low,26,female,17.195,northeast,Summer
+osteoarthritis,C0221406,non-productive cough,C0003123,405,162,low,medium,34,male,23.9,southwest,Summer
+osteoarthritis,C0221406,polydypsia,C3714745,405,162,high,high,34,female,35.15,northwest,Summer
+osteoarthritis,C0221406,stiffness,C2363736,405,162,medium,low,34,female,35.64,southeast,Summer
+osteoarthritis,C0221406,unsteady gait,C0236171,405,162,high,high,34,male,34.1,southeast,Summer
+urinary tract infection,C0008350,fever,C0042963,597,179,high,high,29,male,35.31,southeast,Summer
+urinary tract infection,C0008350,dysuria,C3714614,597,166,high,medium,26,male,30.78,northeast,Summer
+urinary tract infection,C0008350,hematuria,C1291077,597,190,low,high,21,male,26.22,northwest,Summer
+urinary tract infection,C0008350,re162l angle tenderness,C0018021,597,190,medium,low,25,female,23.37,northeast,Summer
+urinary tract infection,C0008350,lethargy,C0022107,597,190,high,high,29,male,28.5,northeast,Summer
+urinary tract infection,C0008350,asthenia,C0917801,597,170,low,medium,28,female,32.965,northeast,Summer
+urinary tract infection,C0008350,hypo162tremia,C0039239,597,168,high,high,18,female,42.68,southeast,Summer
+urinary tract infection,C0008350,hemody162mically stable,C0006370,597,175,medium,high,31,female,39.6,southeast,Summer
+urinary tract infection,C0008350,distress respiratory,C0038990,597,177,high,low,22,female,31.13,southeast,Summer
+urinary tract infection,C0008350,difficulty passing urine,C0026848,597,162,low,medium,34,female,36.3,southeast,Summer
+urinary tract infection,C0008350,mental status changes,C0029456,597,160,high,high,21,female,35.2,southeast,Summer
+urinary tract infection,C0008350,consciousness clear,C0015695,597,160,medium,low,21,female,25.3,southeast,Summer
+hepatitis,C0022346,ascites,C0019209,133,188,medium,high,25,female,19.855,northeast,Summer
+hepatitis,C0022346,spontaneous rupture of membranes,C0038002,133,188,high,low,25,male,25.4,southwest,Summer
+hepatitis,C0022346,tachypnea,C0032227,133,162,low,high,21,male,29.9,southwest,Summer
+hepatitis,C0022346,pain abdomi162l,C0028734,133,162,high,medium,22,male,37.29,southeast,Summer
+hepatitis,C0022346,pruritus,C1622418,133,178,medium,high,26,male,43.7,southwest,Summer
+hepatitis,C0022346,anorexia,C0022504,133,162,high,low,22,male,23.655,northeast,Winter
+hepatitis,C0022346,transaminitis,C0042023,133,162,low,high,22,female,24.3,southwest,Winter
+hepatitis,C0022346,projectile vomiting,C0028734,133,162,high,medium,23,male,36.2,southwest,Summer
+hepatitis,C0022346,chill,C2363736,133,182,medium,high,33,female,29.48,southeast,Summer
+hepatitis,C0022346,distress respiratory,C0004604,133,162,high,high,34,male,24.86,southeast,Summer
+hepatitis,C0022346,fever,C0022346,133,193,high,low,22,male,30.1,southwest,Summer
+hepatitis,C0022346,vomiting,C0152250,133,174,low,medium,24,male,21.85,northeast,Summer
+AIDS,C0021345,fever,C0015672,350,187,high,low,24,female,39.16,southeast,Winter
+AIDS,C0021345,night sweat,C0012833,350,172,low,high,22,male,34.21,southeast,Summer
+AIDS,C0021345,spontaneous rupture of membranes,C0030252,350,180,high,medium,28,male,46.53,southeast,Summer
+AIDS,C0021345,cough,C0851578,350,180,medium,high,28,female,32.5,southwest,Summer
+AIDS,C0021345,decreased body weight,C0033774,350,180,high,low,33,female,35.3,southwest,Summer
+AIDS,C0021345,chill,C0038002,350,180,low,medium,33,male,37.18,southeast,Summer
+AIDS,C0021345,diarrhea,C0019209,350,162,medium,high,31,female,27.5,southwest,Winter
+AIDS,C0021345,pleuritic pain,C0015967,350,185,high,low,24,male,29.735,northeast,Winter
+AIDS,C0021345,patient non compliance,C0028081,350,193,low,high,21,female,24.225,northwest,Summer
+AIDS,C0021345,tachypnea,C2363736,350,176,high,medium,17,male,26.18,southeast,Winter
+AIDS,C0021345,productive cough,C0015672,350,176,medium,high,17,male,29.48,southeast,Winter
+AIDS,C0021345,muscle hypotonia,C0497156,350,176,high,low,21,male,23.21,southeast,Winter
+AIDS,C0021345,hypotonic,C0085435,350,176,low,high,21,female,46.09,southeast,Winter
+AIDS,C0021345,feeling suicidal,C0041976,350,176,high,medium,25,female,40.185,northeast,Winter
+hypoglycemia,C1268964,unresponsiveness,C0039239,122,176,medium,high,34,female,31.92,northwest,Winter
+hypoglycemia,C1268964,"hypothermia, 162tural",C0085619,122,176,high,high,34,male,21.5,southwest,Winter
+hypoglycemia,C1268964,incoherent,C1956414,122,162,high,low,27,male,34.1,southwest,Summer
+hypoglycemia,C1268964,qt interval prolonged,C0034063,122,162,low,medium,31,female,30.305,northeast,Summer
+hypoglycemia,C1268964,lameness,C0010520,122,162,medium,high,31,female,36.48,northwest,Summer
+hypoglycemia,C1268964,claudication,C0013404,122,190,high,low,31,female,32.56,southeast,Summer
+hypoglycemia,C1268964,unconscious state,C0010200,122,162,low,high,21,female,35.815,northwest,Summer
+hypoglycemia,C1268964,clammy skin,C0035508,122,162,high,medium,21,female,27.93,northwest,Summer
+hypoglycemia,C1268964,polyuria,C0015672,122,162,medium,high,17,female,22.135,northeast,Summer
+hypoglycemia,C1268964,distress respiratory,C3887611,122,167,high,low,23,male,44.88,southeast,Summer
+hypoglycemia,C1268964,hypotension,C0013604,122,162,low,high,39,female,23.18,northwest,Summer
+hemorrhoids,C0012813,haemorrhage,C0027497,80,186,medium,high,22,female,27.36,northeast,Summer
+hemorrhoids,C0012813,bowel sounds decreased,C0015967,80,186,high,high,26,female,28.49,southeast,Summer
+hemorrhoids,C0012813,decreased stool caliber,C0009806,80,186,high,low,34,male,23.56,northeast,Summer
+hemorrhoids,C0012813,162usea and vomiting,C0011991,80,208,low,medium,29,male,35.625,northwest,Summer
+hemorrhoids,C0012813,hunger,C0016204,80,162,medium,high,29,female,32.68,northwest,Winter
+hemorrhoids,C0012813,diarrhea,C0027497,80,180,high,low,28,female,25.27,northeast,Summer
+hemorrhoids,C0012813,dizziness,C0015967,80,161,low,high,25,female,28.0,southwest,Summer
+hemorrhoids,C0012813,hypo162tremia,C0009806,80,163,high,medium,23,female,32.775,northwest,Summer
+hemorrhoids,C0012813,clonus,C0011991,80,181,medium,high,18,female,21.755,northeast,Summer
+hemorrhoids,C0012813,pain,C0016204,80,176,high,low,24,female,32.395,northeast,Summer
+hemorrhoids,C0012813,achalasia,C0027497,80,168,low,high,16,female,36.575,northwest,Winter
+hemorrhoids,C0012813,burning sensation,C0015967,80,168,high,medium,16,female,21.755,northwest,Winter
+hemorrhoids,C0012813,guaiac positive,C0009806,80,167,medium,high,25,female,27.93,northwest,Summer
+hemorrhoids,C0012813,numbness of hand,C0011991,80,165,high,high,29,female,30.02,northwest,Summer
+hemorrhoids,C0012813,wheezing,C0016204,80,174,high,low,23,male,33.55,southeast,Summer
+hemorrhoids,C0012813,cough,C0027497,80,174,low,medium,27,male,29.355,northwest,Summer
+hypertension,C0038358,shortness of breath,C0010200,128,162,medium,medium,36,male,42.75,northeast,Summer
+hypertension,C0038358,Stahli's line,C0013404,128,162,high,high,36,female,25.08,southeast,Summer
+hypertension,C0038358,heavy legs,C0001883,128,162,high,low,36,male,29.9,southeast,Summer
+hypertension,C0038358,breath sounds decreased,C0034067,128,162,low,high,36,male,35.86,southeast,Summer
+hypertension,C0038358,neck stiffness,C0022354,128,162,medium,medium,34,male,32.8,southeast,Summer
+hypertension,C0038358,dyspnea on exertion,C0438237,128,169,high,high,22,male,18.6,southeast,Summer
+hypertension,C0038358,cyanosis,C0019209,128,169,low,high,26,female,23.87,southeast,Summer
+hypertension,C0038358,hypotension,C0332601,128,162,high,low,34,female,45.9,southwest,Summer
+hypertension,C0038358,left atrial hypertrophy,C0311277,128,177,medium,medium,38,male,40.28,northwest,Summer
+gastroenteritis,C0002874,pain abdomi162l,C0149745,87,188,low,high,27,male,27.1,southeast,Summer
+gastroenteritis,C0002874,breath-holding spell,C0017574,87,188,medium,medium,27,female,24.13,northeast,Summer
+gastroenteritis,C0002874,162usea,C0040425,87,188,high,high,27,female,27.4,southeast,Summer
+gastroenteritis,C0002874,decreased body weight,C0032285,87,188,low,high,27,male,34.865,northwest,Summer
+gastroenteritis,C0002874,sore to touch,C0007642,87,188,high,low,26,female,29.81,northwest,Summer
+gastroenteritis,C0002874,scleral icterus,C0023531,87,170,medium,medium,20,female,41.325,southwest,Summer
+gastroenteritis,C0002874,fever,C0023890,87,170,high,high,20,female,29.925,southeast,Summer
+gastroenteritis,C0002874,myalgia,C0034069,87,170,low,low,20,male,30.3,northwest,Summer
+gastroenteritis,C0002874,hypo162tremia,C0041976,87,188,high,high,17,female,27.36,northeast,Summer
+gastroenteritis,C0002874,retch,C0007860,87,164,medium,medium,24,male,28.49,northeast,Winter
+gastroenteritis,C0002874,mass of body structure,C0004769,87,172,high,high,23,female,23.56,southeast,Summer
+gastroenteritis,C0002874,decreased body weight,C0033774,87,172,high,low,27,male,35.625,southeast,Summer
+pneumonia,C0020428,cough,C0030193,1029,186,medium,medium,24,female,36.3,northeast,Summer
+pneumonia,C0020428,fever,C0013604,1029,162,high,high,30,female,24.32,southwest,Summer
+pneumonia,C0020428,decreased translucency,C0014544,1029,166,low,high,23,male,17.29,northwest,Summer
+pneumonia,C0020428,shortness of breath,C0018681,1029,140,high,low,26,female,25.9,southeast,Summer
+pneumonia,C0020428,rale,C0027497,1029,140,medium,medium,30,female,39.4,northeast,Summer
+pneumonia,C0020428,productive cough,C0547030,1029,169,high,high,22,female,34.32,southeast,Summer
+pneumonia,C0020428,pleuritic pain,C0015967,1029,163,low,low,17,female,19.95,southeast,Summer
+pneumonia,C0020428,yellow sputum,C0023518,1029,163,high,high,17,male,34.9,northwest,Summer
+pneumonia,C0020428,breath sounds decreased,C0751495,1029,163,medium,medium,17,female,23.21,southwest,Summer
+pneumonia,C0020428,chill,C0271355,1029,163,high,high,17,male,25.745,northeast,Summer
+pneumonia,C0020428,rhonchus,C0030353,1029,163,high,low,22,female,25.175,northwest,Summer
+pneumonia,C0020428,green sputum,C0013404,1029,163,low,high,22,female,22.0,southwest,Summer
+pneumonia,C0020428,non-productive cough,C0038450,1029,163,medium,medium,25,male,26.125,northwest,Winter
+pneumonia,C0020428,wheezing,C0018965,1029,163,high,high,25,male,26.51,southeast,Winter
+pneumonia,C0020428,haemoptysis,C0042341,1029,162,low,high,34,female,27.455,southeast,Summer
+pneumonia,C0020428,distress respiratory,C0020437,1029,213,high,low,33,male,25.745,northwest,Summer
+pneumonia,C0020428,tachypnea,C0020538,1029,213,medium,medium,33,female,30.36,northeast,Summer
+pneumonia,C0020428,malaise,C1868945,1029,185,high,high,38,female,30.875,southeast,Summer
+pneumonia,C0020428,night sweat,C0016199,1029,190,low,low,19,female,20.8,northeast,Summer
+GERD,C0151945,pain,C2363736,325,177,high,high,22,male,27.8,northeast,Summer
+GERD,C0151945,pain chest,C0015672,325,177,medium,medium,26,female,24.605,northwest,Summer
+GERD,C0151945,burning sensation,C0015967,325,162,high,high,28,male,27.72,southwest,Summer
+GERD,C0151945,hypo162tremia,C0002871,325,178,high,low,17,female,21.85,northwest,Winter
+GERD,C0151945,satiety early,C0042963,325,175,low,high,19,female,28.12,northwest,Summer
+GERD,C0151945,throbbing sensation quality,C0919671,325,162,medium,medium,38,male,30.2,northwest,Summer
+GERD,C0151945,chest tightness,C0018965,325,162,high,high,38,male,32.2,northwest,Summer
+GERD,C0151945,sensory discomfort,C0239937,325,162,low,high,29,male,26.315,southeast,Summer
+GERD,C0151945,presence of q wave,C0152169,325,162,high,low,38,male,26.695,southwest,Summer
+GERD,C0151945,162usea,C0027497,325,168,medium,medium,18,female,42.9,northeast,Summer
+GERD,C0151945,general discomfort,C0010200,325,168,high,high,22,male,34.7,northeast,Summer
+GERD,C0151945,constipation,C0015967,325,177,low,low,28,male,23.655,northwest,Summer
+GERD,C0151945,palpitation,C0011168,325,202,high,high,24,female,28.31,southwest,Summer
+GERD,C0151945,pain abdomi162l,C0018681,325,179,medium,medium,24,female,20.6,northeast,Summer
+GERD,C0151945,heartburn,C0085593,325,179,high,high,28,female,53.13,southeast,Summer
+GERD,C0151945,sweat,C1963891,325,180,high,low,21,female,39.71,southeast,Summer
+GERD,C0151945,sweating increased,C0031154,325,178,low,high,23,female,26.315,northeast,Summer
+GERD,C0151945,asthenia,C0016479,325,178,medium,medium,27,female,31.065,southeast,Summer
+hepatitis B,C0152032,i162ppropriate affect,C0547030,111,162,low,low,27,female,36.385,southeast,Summer
+hepatitis B,C0152032,tachypnea,C0029124,111,186,high,high,34,female,27.645,northeast,Winter
+hepatitis B,C0152032,yellow sputum,C0013384,111,186,medium,medium,25,male,37.715,southeast,Winter
+hepatitis B,C0152032,projectile vomiting,C0016242,111,162,high,high,23,female,23.18,southeast,Summer
+hepatitis B,C0152032,poor feeding,C0036454,111,162,high,low,27,female,20.52,northwest,Summer
+hepatitis B,C0152032,pain abdomi162l,C0033774,111,162,low,high,35,female,37.1,southwest,Summer
+hepatitis B,C0152032,abdomi162l tenderness,C0018944,111,162,medium,medium,44,female,28.05,southeast,Summer
+hepatitis B,C0152032,wheelchair bound,C0014591,111,162,high,high,20,female,29.9,northwest,Summer
+hepatitis B,C0152032,moan,C0025323,111,188,low,high,25,male,33.345,northeast,Summer
+hepatitis C,C0041976,ascites,C0151825,269,175,high,low,19,male,23.76,northeast,Summer
+hepatitis C,C0041976,distended abdomen,C0019087,269,187,medium,medium,30,female,30.5,northwest,Summer
+hepatitis C,C0041976,feeling suicidal,C0025323,269,175,high,high,23,female,31.065,southwest,Summer
+hepatitis C,C0041976,cough,C0014591,269,158,low,low,16,female,33.3,southeast,Summer
+hepatitis C,C0041976,ache,C0852361,269,158,high,high,16,female,27.5,southwest,Summer
+hepatitis C,C0041976,macerated skin,C0025874,269,158,medium,medium,16,female,33.915,southwest,Summer
+hepatitis C,C0041976,heavy feeling,C0017565,269,158,high,high,16,female,34.485,southeast,Summer
+hepatitis C,C0041976,halluci162tions auditory,C0236171,269,158,high,low,16,female,25.52,southwest,Summer
+hepatitis C,C0041976,chill,C0013404,269,158,low,high,20,female,27.61,northeast,Summer
+hepatitis C,C0041976,asterixis,C0015934,269,158,medium,medium,20,female,27.06,northwest,Summer
+hepatitis C,C0041976,patient non compliance,C0030193,269,158,high,high,20,female,23.7,northwest,Summer
+arthritis,C0023449,pain,C0036508,179,180,high,low,24,male,30.875,northwest,Summer
+arthritis,C0023449,hemody162mically stable,C0040252,179,189,medium,medium,24,female,20.8,southeast,Summer
+arthritis,C0023449,sleeplessness,C0010692,179,162,high,high,22,male,27.8,southeast,Summer
+arthritis,C0023449,asthenia,C0042024,179,190,low,low,21,female,24.605,northeast,Summer
+arthritis,C0023449,syncope,C0018801,179,176,high,high,25,male,27.72,northwest,Summer
+arthritis,C0023449,swelling,C1704272,179,171,medium,medium,25,male,21.85,northeast,Summer
+arthritis,C0023449,atypia,C1565489,179,178,high,high,22,male,28.12,southeast,Summer
+arthritis,C0023449,general unsteadiness,C0032961,179,175,high,low,28,male,30.2,southwest,Summer
+arthritis,C0023449,shortness of breath,C0012798,179,165,low,high,20,male,32.2,southwest,Summer
+arthritis,C0023449,distended abdomen,C0038002,179,165,medium,medium,20,female,26.315,northwest,Summer
+diabetes,C0340164,polyuria,C0023067,1421,193,high,high,32,male,25.8,northeast,Summer
+diabetes,C0340164,polydypsia,C0018681,1421,167,medium,medium,19,female,35.245,northwest,Summer
+diabetes,C0340164,shortness of breath,C0009676,1421,162,high,high,18,male,24.7,northeast,Summer
+diabetes,C0340164,pain chest,C0011991,1421,184,high,low,22,male,25.08,southeast,Summer
+diabetes,C0340164,asthenia,C0014743,1421,163,low,high,39,female,52.58,southeast,Summer
+diabetes,C0340164,162usea,C0003864,1421,163,medium,medium,47,male,22.515,southeast,Summer
+diabetes,C0340164,orthopnea,C0003962,1421,162,high,high,22,male,30.9,northwest,Summer
+diabetes,C0340164,rale,C0032227,1421,166,low,high,24,female,36.955,southeast,Winter
+diabetes,C0340164,sweat,C0020224,1421,170,high,low,23,female,26.41,southeast,Summer
+diabetes,C0340164,sweating increased,C0085612,1421,180,medium,medium,23,male,29.83,southwest,Summer
+diabetes,C0340164,unresponsiveness,C0042514,1421,180,high,high,31,female,29.8,southwest,Summer
+diabetes,C0340164,mental status changes,C0012833,1421,162,low,low,22,male,21.47,southwest,Summer
+diabetes,C0340164,vertigo,C0039070,1421,163,high,high,23,male,27.645,southeast,Summer
+diabetes,C0340164,vomiting,C0013404,1421,163,medium,medium,23,female,28.9,northeast,Summer
+diabetes,C0340164,labored breathing,C0002962,1421,163,high,high,27,male,31.79,northeast,Summer
+migraine,C0020532,ambidexterity,C0038002,61,182,low,low,27,male,19.95,southwest,Summer
+migraine,C0020532,vomiting,C0010828,61,175,medium,medium,32,female,31.4,southwest,Summer
+migraine,C0020532,dizziness,C0005959,61,162,high,high,20,male,38.17,northwest,Summer
+migraine,C0020532,numbness,C0031256,61,173,low,low,20,female,36.86,northeast,Summer
+migraine,C0020532,162usea,C0014591,61,168,high,high,24,female,32.395,southwest,Winter
+migraine,C0020532,fever,C0025323,61,168,medium,medium,17,male,42.75,southeast,Winter
+migraine,C0020532,splenomegaly,C0015967,61,168,high,high,17,male,25.08,northeast,Winter
