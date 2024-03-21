@@ -33,7 +33,7 @@ Detailed analysis to come. In the meantime, take a look at our project proposal:
      - Description coming soon!
 4. [Tableau Dashboard & Visualizations](Link to Come: March 27, 2024)
     - Description coming soon! 
-5. [Meet the Doctors](Link to Come: March 27, 2024)
+5. [About Us: We Are NOT Doctors.](Link to Come: March 27, 2024)
     - Here, you can meet and read more about our group project contributors.
    
 # Special Thanks :heavy_heart_exclamation:	
