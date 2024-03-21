@@ -34,7 +34,7 @@ Detailed analysis to come. In the meantime, take a look at our project proposal:
 4. [Tableau Dashboard & Visualizations](Link to Come: March 27, 2024)
     - Description coming soon! 
 5. [About Us: We Are NOT Doctors.](Link to Come: March 27, 2024)
-    - Here, you can meet and read more about our group project contributors.
+    - Meet our group project contributors and read more about us. 
    
 # Special Thanks :heavy_heart_exclamation:	
 We would like to extend a special shout out to our Professor and our outstanding TA for their invaluable support and guidance in tackling complex webpage coding, database integration, and assisting us with troubleshooting crucial functions for our HEALTHhouse Dashboard, Recommender tool, and Webpages to function appropriately. Their unwavering commitment during our journey as Data Scientists has been nothing short of inspiring. Many thanks to you both!
