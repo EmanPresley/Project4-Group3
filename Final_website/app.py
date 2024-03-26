@@ -1,8 +1,13 @@
-from flask import Flask, render_template, redirect
+from flask import Flask, render_template, redirect, request, jsonify
+from modelHelper import ModelHelper
+import json
+
 
 # Create an instance of Flask
 app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+
+modelHelper = ModelHelper()
 
 # Route to render index.html template using data from Mongo
 @app.route("/index")
@@ -14,6 +19,11 @@ def home():
 def about_us():
     # Return template and data
     return render_template("about_us.html")
+
+@app.route("/tableau")
+def tableau():
+    # Return template and data
+    return render_template("tableau.html")
 
 @app.route("/")
 def landing_page():
@@ -30,6 +40,13 @@ def ml_form():
     # Return template and data
     return render_template("ml_form.html")
 
+@app.route("/makePredictions", methods=["POST"])
+def make_predictions():
+    content = request.json["data"]
+    print(content)
+    
+    preds = modelHelper.makePredictions(content)
+    return(jsonify({"ok": True, "prediction": preds}))
 
 #############################################################
 
