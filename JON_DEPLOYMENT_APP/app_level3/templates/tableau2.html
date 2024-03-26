@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>About Us</title>
+    <!-- Boostrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/minty/bootstrap.min.css">
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript" src="static/js/tableau_api.js"></script>
+
+</head>
+
+<body>
+
+    <div class="card container-fluid" style="margin-top:25px; margin-bottom: 25px;">
+        <div style="text-align: center;">
+            <h1>Embedded Tableau</h1>
+        </div>
+    </div>
+    <hr>
+    <div class="card container-fluid" style="margin-top:25px; margin-bottom: 25px; text-align: center;">
+        <h3>Toolbar</h3>
+        <div style="display: inline-block;">
+            <button type="button" class="btn btn-primary" id="pdf">PDF</button>
+            <button type="button" class="btn btn-primary" id="image">Image</button>
+            <button type="button" class="btn btn-primary" id="crosstab">Crosstab</button>
+            <button type="button" class="btn btn-primary" id="data">Data</button>
+            <button type="button" class="btn btn-danger" id="revert">Revert</button>
+        </div>
+    </div>
+
+    <!-- The div where we will inject our Tableau -->
+    <div id="tableauParent" class="container-fluid">
+        <div style="height:700px" id="tableauViz"></div>
+    </div>
+
+</body>
+
+</html>

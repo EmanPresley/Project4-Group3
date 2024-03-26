@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>TITANIC ML</title>
+    <!-- Boostrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/minty/bootstrap.min.css">
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- JS -->
+    <script type="text/javascript" src="static/js/logic.js"></script>
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <a class="navbar-brand" href="#"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Titanic
+                <span class="sr-only">(current)</span>
+              </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <a href="/about_us">About Us</a>
+    <hr style="color:lightgray; border-width: 3px;">
+    <div class="container">
+        <div class="card border-primary mb-3" style="max-width: 20rem;">
+            <div class="card-header">Filters</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="col-form-label" for="gender">Gender</label>
+                            <select id="gender">
+                                <option value="1">Female</option>
+                                <option value="0">Male</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label" for="age">Age</label>
+                            <input type="text" class="form-control" value="25" id="age">
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label" for="fare">Fare</label>
+                            <input type="text" class="form-control" value="25.50" id="fare">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="col-form-label" for="familySize">Family Size</label>
+                            <input type="text" class="form-control" value="2" id="familySize">
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label" for="pclass">Passenger Class</label>
+                            <select id="pclass">
+                                <option value="1">First Class</option>
+                                <option value="2">Second Class</option>
+                                <option value="3">Third Class</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label" for="embarked">Embarked Port</label>
+                            <select id="embarked">
+                                <option value="C">Cherbourg</option>
+                                <option value="Q">Queenstown</option>
+                                <option value="S">Southampton</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <button type="button" class="btn btn-primary" id="filter">Make Prediction!</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr style="color:lightgray; border-width: 3px;">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 id="output"></h1>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
